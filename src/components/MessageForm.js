@@ -2,7 +2,9 @@ import React from 'react';
 
 const MessageForm = () => {
   return (
-    <div>MessageForm</div>
+    <form className='message-form'>
+      
+    </form>
   )
 }
 
